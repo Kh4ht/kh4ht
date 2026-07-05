@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact **I love game development**
 
-- 👨‍💻 All of my projects are available at **[https://kh4ht.github.io/khaledtamimi.github.io/](https://kh4ht.github.io/khaledtamimi.github.io)**
+- 👨‍💻 All of my projects are available at **(https://kh4ht.github.io/khaledtamimi.github.io)**
 
 - 📄 Know about my experiences **[https://drive.google.com/file/d/1B1VXPKd1GxRpscMt6j8v98N4CjMOZtPc/view?usp=sharing](https://drive.google.com/file/d/1B1VXPKd1GxRpscMt6j8v98N4CjMOZtPc/view?usp=sharing)**
 
