@@ -1,4 +1,4 @@
-# Hi 👋, I'm khaled
+# Hi 👋, I'm Khaled
 
 ### a software engineer
 
@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **web development**
 
-- 📫 How to reach me **asdfe@gmail.com**
+- 📫 How to reach me **khaled.h.altamimi@gmail.com**
 
 - ⚡ Fun fact **I love game development**
 
