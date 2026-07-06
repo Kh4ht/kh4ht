@@ -4,21 +4,21 @@
 
 - 🔭 I'm currently working on **an ATS system**
 
-- 🌱 I'm currently learning **C#**
+- 🌱 I'm currently learning **LLM/DL/ML**
 
 - 👯 I'm looking to collaborate on **open source projects**
 
-- 🤝 I'm looking for help with **2D art**
+- 🤝 I'm looking for help with **2D/3D art**
 
-- 💬 Ask me about **web development**
+- 💬 Ask me about **Game development**
 
 - 📫 How to reach me **khaled.h.altamimi@gmail.com**
 
-- ⚡ Fun fact **I love game development**
+- ⚡ Fun fact **From Playing Games To Building Games**
 
-- 👨‍💻 All of my projects are available at **https://kh4ht.github.io/khaledtamimi.github.io**
+- 👨‍💻 All of my projects are available at **[LINK1](https://kh4ht.github.io/khaledtamimi.github.io)**
 
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1B1VXPKd1GxRpscMt6j8v98N4CjMOZtPc/view?usp=sharing](https://drive.google.com/file/d/1B1VXPKd1GxRpscMt6j8v98N4CjMOZtPc/view?usp=sharing)**
+- 📄 Know about my experiences **[LINK2](https://drive.google.com/file/d/1B1VXPKd1GxRpscMt6j8v98N4CjMOZtPc/view?usp=sharing)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
